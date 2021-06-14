@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+.read {
+    background-color: rgb(241, 241, 241);
+    color: rgb(129, 123, 123);
+    margin: 5px;
+}
+
+.div-style {
+    padding: 15px;
+    color: black;
+    background-color: white;
+    margin: 5px;
+}
